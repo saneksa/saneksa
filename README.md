@@ -4,6 +4,7 @@
 
 Skills: REACT / TYPESCRIPT / JS /  HTML / CSS
 
+- 🤓 I'm a front-end developer
 - 🌱 I’m currently learning Golang 
 
 
