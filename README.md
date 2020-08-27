@@ -12,5 +12,7 @@ Skills: REACT / TYPESCRIPT / JS /  HTML / CSS
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saneksa&show_icons=true)  
+## Some of my Github Stats
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=saneksa&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/saneksa/github-readme-stats)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=saneksa&layout=compact)](https://github.com/saneksa/github-readme-stats)
 
