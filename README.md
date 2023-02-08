@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Alexandr 
 ![](https://gpvc.arturio.dev/saneksa)
 
+![https://www.codewars.com/users/saneksa/badges/small](https://www.codewars.com/users/saneksa/badges/micro)
+
 Things I code with:
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
