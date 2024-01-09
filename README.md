@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Alexandr 
-![](https://gpvc.arturio.dev/saneksa)
+![](https://komarev.com/ghpvc/?username=saneksa)
 
 ![https://www.codewars.com/users/saneksa/badges/small](https://www.codewars.com/users/saneksa/badges/micro)
 
