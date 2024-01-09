@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Alexandr 
-![](https://komarev.com/ghpvc/?username=saneksa)
-
-![https://www.codewars.com/users/saneksa/badges/small](https://www.codewars.com/users/saneksa/badges/micro)
+![](https://komarev.com/ghpvc/?username=saneksa) ![https://www.codewars.com/users/saneksa/badges/small](https://www.codewars.com/users/saneksa/badges/micro) [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/saneksa2)
 
 Things I code with:
 <p>
